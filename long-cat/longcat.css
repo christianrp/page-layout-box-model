@@ -1,0 +1,17 @@
+body {
+  background-color: blue;
+}
+
+p {
+  background-color: red;
+  color: green;
+}
+
+.large-font {
+  font-size: 2em;
+}
+
+.yellow-text {
+  color: yellow;
+  font-size: 2em;
+}

@@ -1,0 +1,18 @@
+h1 {
+  background-color: #787171;
+  text-align: center;
+}
+
+.heading {
+  border-bottom: 3px dashed red;
+  display: inline-block;
+}
+
+.first-letter {
+  color: green;
+  font-size: 2em;
+}
+
+#font {
+  font-family: monospace;
+}
